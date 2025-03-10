@@ -32,7 +32,7 @@
       \usetikzlibrary{arrows}
     </latex-image-preamble>
     <latex-preamble>
-      <package name="esint"/>
+      \usepackage{esint}
     </latex-preamble>
   </docinfo>
 
