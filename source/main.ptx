@@ -31,9 +31,7 @@
       \usepackage{tikz, tikz-cd, amscd, esint}
       \usetikzlibrary{arrows}
     </latex-image-preamble>
-    <latex-preamble>
-      \usepackage{esint}
-    </latex-preamble>
+
   </docinfo>
 
   <book xml:id="ms-calculus-3">
