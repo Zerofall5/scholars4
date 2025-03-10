@@ -32,6 +32,9 @@
       \usetikzlibrary{arrows}
     </latex-image-preamble>
 
+  <latex-preamble>
+    \usepackage{amsmath,amssymb} 
+  </latex-preamble>
   </docinfo>
 
   <book xml:id="ms-calculus-3">
