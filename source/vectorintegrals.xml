@@ -528,7 +528,7 @@
                     </me> 
                     be the gravitational vector field between two point masses. Without parameterizing or using spherical coordinates, compute the vector surface integral
                         <me>
-                            \oiint_{\mathcal{S}} \mb{F} \cdot \tder{}{\mb{S}}.
+                            \unicodeInt{x222F}_{\subset{S}} \mb{F} \cdot \tder{}{\mb{S}}.
                         </me></p>
             </statement>
         </exercise>
