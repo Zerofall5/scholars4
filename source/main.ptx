@@ -31,6 +31,7 @@
       \usepackage{tikz, tikz-cd, amscd, esint}
       \usetikzlibrary{arrows}
     </latex-image-preamble>
+    \newcommand{\oiint}{{\subset\!\supset} \llap{\iint}}
   </docinfo>
 
   <book xml:id="ms-calculus-3">
