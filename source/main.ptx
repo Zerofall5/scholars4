@@ -31,6 +31,9 @@
       \usepackage{tikz, tikz-cd, amscd, esint}
       \usetikzlibrary{arrows}
     </latex-image-preamble>
+    \def\oiint{\mathop{\vcenter{\mathchoice
+     {\huge\unicode{x222F}\,}{\unicode{x222F}}{\unicode{x222F}}{\unicode{x222F}}
+    }\,}\nolimits}
     \newcommand{\oiint}{{\subset\!\supset} \llap{\iint}}
   </docinfo>
 
